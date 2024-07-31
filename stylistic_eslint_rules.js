@@ -1,3 +1,5 @@
+const INDENT_SPACING = 2;
+
 export default {
   "@stylistic/js/array-bracket-newline": ["warn", { multiline: true }],
   "@stylistic/js/array-bracket-spacing": [
